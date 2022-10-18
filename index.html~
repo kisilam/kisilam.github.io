@@ -22,10 +22,10 @@
         	<div class="contacts_container">
         		<h3 class="contacts_title">Contacts</h3>
         		<div>
-        			<span class="contacts_letter">C:</span> <a class="contacts_link" href="tel:+380951138598">+38 095 113 85 98</a>
+        			<span class="contacts_letter">C:</span> <a class="contacts_link" href="tel:+380956764304">+38 095 767 43 04</a>
         		</div>
         		<div>
-        			<span class="contacts_letter">E:</span> <a class="contacts_link" href="mailto:chornyiav@gmail.com">chornyiav@gmail.com</a>
+        			<span class="contacts_letter">E:</span> <a class="contacts_link" href="mailto:kisilam@yahoo.com">kisilam@yahoo.com</a>
         		</div>
         	</div>
 
@@ -34,25 +34,34 @@
         		<h3 class="techskills_title">Tech Skills</h3>
         		<ul>
         			<li class="techskills_list_items">
-        				<span class="techskills_list_text">HTML5</span>
+        				<span class="techskills_list_text">Linux, Windows</span>
         			</li>
         			<li class="techskills_list_items">
-        				<span class="techskills_list_text">CSS3</span>
+        				<span class="techskills_list_text">LAMP, LEMP</span>
         			</li>
         			<li class="techskills_list_items">
         				<span class="techskills_list_text">GIT</span>
         			</li>
         			<li class="techskills_list_items">
-        				<span class="techskills_list_text">WebPack</span>
+        				<span class="techskills_list_text">Docker</span>
         			</li>
         			<li class="techskills_list_items">
-        				<span class="techskills_list_text">JavaScript</span>
+        				<span class="techskills_list_text">Samba, Ftp, Squid etc</span>
         			</li>
         			<li class="techskills_list_items">
-        				<span class="techskills_list_text">React.js</span>
+        				<span class="techskills_list_text">Deploy projects on Nodejs, Python etc </span>
         			</li>
         			<li class="techskills_list_items">
-        				<span class="techskills_list_text">Node.js</span>
+        				<span class="techskills_list_text">Monitoring system (Grafana, Nagios)</span>
+        			</li>
+        			<li class="techskills_list_items">
+        				<span class="techskills_list_text">VPS, hosting panel (VestaCP, Cpanel etc)</span>
+        			</li>
+        			<li class="techskills_list_items">
+        				<span class="techskills_list_text">Jira, Confluence</span>
+        			</li>
+        			<li class="techskills_list_items">
+        				<span class="techskills_list_text">Seample bash and python scripting (beginning)</span>
         			</li>
         		</ul>
         	</div>
@@ -62,13 +71,10 @@
         		<h3 class="softskills_title">Soft Skills</h3>
         		<ul>
         			<li class="softskills_list_items">
-        				<span class="softskills_list_text">Scrum</span>
+        				<span class="softskills_list_text">Communication</span>
         			</li>
         			<li class="softskills_list_items">
-        				<span class="softskills_list_text">Agile</span>
-        			</li>
-        			<li class="softskills_list_items">
-        				<span class="softskills_list_text">GTD</span>
+        				<span class="softskills_list_text">Critical thinking</span>
         			</li>
         			<li class="softskills_list_items">
         				<span class="softskills_list_text">Teamwork</span>
