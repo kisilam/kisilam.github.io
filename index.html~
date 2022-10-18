@@ -22,10 +22,10 @@
         	<div class="contacts_container">
         		<h3 class="contacts_title">Contacts</h3>
         		<div>
-        			<span class="contacts_letter">C:</span> <a class="contacts_link" href="tel:+380956764304">+38 095 767 43 04</a>
+        			<span class="contacts_letter">C:</span> <a class="contacts_link" href="tel:+380951138598">+38 095 113 85 98</a>
         		</div>
         		<div>
-        			<span class="contacts_letter">E:</span> <a class="contacts_link" href="mailto:kisilam@yahoo.com">kisilam@yahoo.com</a>
+        			<span class="contacts_letter">E:</span> <a class="contacts_link" href="mailto:chornyiav@gmail.com">chornyiav@gmail.com</a>
         		</div>
         	</div>
 
@@ -34,16 +34,16 @@
         		<h3 class="techskills_title">Tech Skills</h3>
         		<ul>
         			<li class="techskills_list_items">
-        				<span class="techskills_list_text">Linux, Windows</span>
+        				<span class="techskills_list_text">HTML5</span>
         			</li>
         			<li class="techskills_list_items">
-        				<span class="techskills_list_text">LAMP, LEMP</span>
+        				<span class="techskills_list_text">CSS3</span>
         			</li>
         			<li class="techskills_list_items">
         				<span class="techskills_list_text">GIT</span>
         			</li>
         			<li class="techskills_list_items">
-        				<span class="techskills_list_text">Docker</span>
+        				<span class="techskills_list_text">WebPack</span>
         			</li>
         			<li class="techskills_list_items">
         				<span class="techskills_list_text">JavaScript</span>
