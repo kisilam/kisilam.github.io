@@ -132,8 +132,8 @@
 
         	<!-- Container about me-->
 	        	<div>
+	        			 <h1 class="ebout_me_name">Andrii Kisil</h1>
 		            <h3 class="ebout_my_dream">SRE Engineer</h3>
-		            <h1 class="ebout_me_name">Andrii Kisil</h1>
 						<br>
 	         </div>
 
